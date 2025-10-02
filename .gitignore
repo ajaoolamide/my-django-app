@@ -1,4 +1,3 @@
 __pycache__/
-test-clone
-venv/
+myenv/
 s.env

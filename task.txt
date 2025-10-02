@@ -1,0 +1,7 @@
+-- check your git version
+-- check git global list 
+-- initialize git 
+-- add and commit file 
+-- add remote url and push using (-u)
+-- check git log in normal and graph
+-- 
