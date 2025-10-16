@@ -1,4 +1,5 @@
 __pycache__/
 myenv/
 s.env
-task.text
+task.txt
+django-rest-framework/

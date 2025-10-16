@@ -4,4 +4,20 @@
 -- add and commit file 
 -- add remote url and push using (-u)
 -- check git log in normal and graph
--- 
+
+-- topic: working with remote repo
+-- view remote url 
+--  change a remote url 
+-- fetch a remote url 
+-- log remote repo oneline
+-- pull a remote url branch 
+-- cerate app and commit and push to remote 
+-- cerate gitignore file and add files to ignore 
+-- remove allready commited file included in gitignore
+-- crete a new branch 
+-- add a model and commit in that branch 
+-- switch back to master 
+-- view log 
+-- push created branch to remote  
+-- go to github and pull requests 
+-- do everything about issues and project management topic 
