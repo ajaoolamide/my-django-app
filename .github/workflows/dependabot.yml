@@ -1,0 +1,7 @@
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"  # Where requirements.txt is
+    schedule:
+      interval: "daily"
+    open-pull-requests-limit: 5  # Max PRs
