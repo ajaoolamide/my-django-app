@@ -16,7 +16,7 @@ A simplr blog with post and search
 
 ## Requirements
 | Package | Version |
-|-------------------|
+|---------|---------|
 | Django  | 4.2     |
 | Pillow  | 10.0    |
 
